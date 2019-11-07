@@ -8,9 +8,10 @@ Under _Downloads > iOS Downloads_ download the **Native iOS Framework**.
 
 Then go to _Developer Credentials_ and download the API Keys for iOS.
 
+Create a folder **Frameworks** in the root directory.
 Copy the **SixDegreesSDK.framework** file to the **Frameworks** folder.
 
-Copy the **SixDegreesSDK.plist** to **Sample.iOS/Resources**.
+Copy the **SixDegreesSDK.plist** to the **Sample.iOS/Resources** folder.
 
 Now you can build the binding and sample app.
 ___
