@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>SIXDEGREES_API_KEY</key>
+    <string>8ed01d0ffd90c2d770ba7d10ebb9c674a36384ab</string>
+    <key>SIXDEGREES_PRIVATE_KEY</key>
+    <string>5d1622c667e12601f8ef559c1a26bb1ba1ede590</string>
+</dict>
+</plist>
